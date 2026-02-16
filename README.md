@@ -1,4 +1,4 @@
-# 🚀 Free-Nodes (免费节点共享)
+# 🚀 FreeNodes (免费节点共享)
 
 <p align="center">
   <a href="https://github.com/Mikimiya/free-nodes/stargazers"><img src="https://img.shields.io/github/stars/Mikimiya/free-nodes?style=flat-square&color=yellow" alt="Stars"></a>
@@ -32,7 +32,7 @@
 
 | 客户端类型 | 订阅链接 (点击复制) |
 | :--- | :--- |
-| **Base64 通用订阅** | `https://raw.githubusercontent.com/Mikimiya/free-nodes/main/20260-02-16.txt` |
+| **Base64 通用订阅** | `https://raw.githubusercontent.com/Mikimiya/freeenodes/main/2026-02-16.txt` |
 
 > **⚠️ 注意**：如果遇到 GitHub Raw 域名在国内无法直接访问或更新失败，请在链接前加上加速代理（例如：`https://ghproxy.net/https://raw.githubusercontent.com/...`）。
 
